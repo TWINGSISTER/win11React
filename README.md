@@ -1,7 +1,11 @@
 # Win11 in React! deployed for free onto Netlify.
 Thanks to [comments](https://github.com/blueedgetechno/win11React/issues/625) of one of the Win11React builders  [yashash1511](https://github.com/yashash1511) got quickly a personal copy running on Netlify. These are the steps:
 - fork on GitHub win11React and get your copy 
-- connect 
+- push the button 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/blueedgetechno/win11React)
+- check if deploy fails change in Netlify [like this](Clipboard02.png). Note that you have to change TWINGSISTER into your GitHub user name. Builld command must be changed, too.
+- when build succeeds you will have a site with some URL you can access [like this](https://strong-cat-a2d363.netlify.app/)
+Below and in all the fork you can find the original project page.
 # Win11 in React!
 
 [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
