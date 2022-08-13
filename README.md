@@ -1,3 +1,7 @@
+# Win11 in React! deployed for free onto Netlify.
+Thanks to [comments](https://github.com/blueedgetechno/win11React/issues/625) of one of the Win11React builders  [yashash1511](https://github.com/yashash1511) got quickly a personal copy running on Netlify. These are the steps:
+- fork on GitHub win11React and get your copy 
+- connect 
 # Win11 in React!
 
 [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
